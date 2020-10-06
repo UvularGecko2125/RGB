@@ -66,7 +66,7 @@ void loop() {
 
    }
    ```
-   ![image](https://github.com/UvularGecko2125/RGB/blob/master/DSC_0011.JPG)照片<br>
+   ![image](https://github.com/UvularGecko2125/RGB/blob/master/DSC_0011.JPG)
    工作三<br>
    功能:設定一副程式 在按鈕按下後 RGB亮起(粉色吧? 或是淡紫色我也不知道?)<br>
    輸出腳:9(紅) 10(綠) 11(藍) 輸入腳: 2<br>
@@ -93,7 +93,7 @@ void loop() {\
       RGB(90,20,50);
    }
    ```
-   ![image]()
+   ![image](https://github.com/UvularGecko2125/RGB/blob/master/DSC_0012.JPG)
    
    
    

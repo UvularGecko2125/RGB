@@ -27,7 +27,7 @@ void loop() {
 
 }
 ```
-![image]()照片<br>
+![image](https://github.com/UvularGecko2125/RGB/blob/master/DSC_0010.JPG)
 工作二<br>
 功能:RGB版本的呼吸燈(黃色)<br>
      由亮轉暗 再由暗轉亮<br>

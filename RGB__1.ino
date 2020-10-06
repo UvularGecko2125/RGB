@@ -8,5 +8,5 @@ void loop() {
   // put your main code here, to run repeatedly:
     analogWrite(9,180);
     analogWrite(10,0);
-    analogWrite(11,0);
+    analogWrite(11,180);
 }

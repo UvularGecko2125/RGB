@@ -27,4 +27,43 @@ void loop() {
 
 }
 ```
-照片
+照片<br>
+工作二
+功能:RGB版本的呼吸燈
+
+
+
+```c++
+int x =180;
+
+int y =5;
+
+void setup() {
+
+  // put your setup code here, to run once:
+
+  pinMode (9,OUTPUT);
+
+  pinMode (10,OUTPUT);
+
+}
+
+void loop() {
+
+  // put your main code here, to run repeatedly:
+
+   analogWrite(9,x);
+
+   analogWrite(10,x);
+
+   x = x-y;
+
+   if(x ==0 || x ==255)
+
+   y = -y;
+
+   delay(80);
+
+   }
+   ```
+   照片
